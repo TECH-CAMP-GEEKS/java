@@ -12,7 +12,7 @@
 
   入っていなければ、以下の[サイト](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)からJDKをインストールする
   
-  ![](https://i.gyazo.com/28e95529f4f9e664840ae8a72cd0e02b.png)
+  ![https://i.gyazo.com/28e95529f4f9e664840ae8a72cd0e02b.png](https://i.gyazo.com/28e95529f4f9e664840ae8a72cd0e02b.png)
   
 2. Hello.javaというファイルを作成する
   ```
