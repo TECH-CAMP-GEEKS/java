@@ -18,6 +18,7 @@
   ```
   $ vim Hello.java
   ```
+
 3. 以下のような記述をする
   ```
   public class Hello {
@@ -26,11 +27,13 @@
     }
   }
   ```
+
 4. コンパイルする
   ```
   $ javac Hello.java
   // Hello.class というファイルが生成される
   ```
+
 5. クラスを実行する
   ```
   $ java Hello
